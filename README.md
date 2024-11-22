@@ -21,5 +21,8 @@
 - Research: Obtain concise explanations on complex topics, helpful as a starting point for deeper research.
 - Productivity: General knowledge and quick answers for busy professionals and learners.
 - Learning & Development: Increase personal knowledge with quick insights into diverse topics.
+# Example 
+<img width="954" alt="image" src="https://github.com/user-attachments/assets/8ad5ec00-99bd-4d1b-86d4-8fdee6bc2e04">
+
 # Conclusion
 - The QuickAnswers AI project is designed to provide concise and insightful responses to various prompts, making complex topics more accessible to users. By leveraging AI to generate informative responses, this tool allows users to explore themes and concepts in an interactive manner. This project aims to enhance understanding and engagement with knowledge-based queries, providing an efficient way to access relevant information quickly.
