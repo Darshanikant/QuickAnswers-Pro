@@ -3,7 +3,7 @@ import google.generativeai as genai
 import streamlit as st
 
 # Configure the API key
-genai.configure(api_key="Replacedby gemini Api keys") 
+genai.configure(api_key="AIzaSyDhTuwA5BDQqX3X3pXsp8yjhReDZ6_8YZU") 
 
 
 
